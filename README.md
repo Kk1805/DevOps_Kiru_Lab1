@@ -1,4 +1,3 @@
-# Web-Dev
 This Git repository is created for a lab exercise. 
 It includes:  
 A local project named Web-Dev, 
